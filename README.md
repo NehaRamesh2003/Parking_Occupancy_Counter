@@ -1,4 +1,4 @@
-Sure, here it is formatted for easy copy-pasting:
+Sure, here is the updated README file without the requirements part:
 
 ---
 
@@ -17,7 +17,6 @@ This project aims to monitor and display the occupancy status of parking spaces 
 ### Prerequisites
 
 - Python 3.x
-- Required Python libraries (listed in `requirements.txt`)
 
 ### Installation
 
@@ -26,13 +25,6 @@ This project aims to monitor and display the occupancy status of parking spaces 
     ```bash
     git clone https://github.com/NehaRamesh2003/Parking_Occupancy_Counter.git
     cd Parking_Occupancy_Counter
-    
-    ```
-
-2. Install the required libraries:
-
-    ```bash
-    pip install -r requirements.txt
     ```
 
 ### Usage
@@ -64,14 +56,13 @@ This project aims to monitor and display the occupancy status of parking spaces 
 ### Directory Structure
 
 ```plaintext
-parking-occupancy-project/
+Parking_Occupancy_Counter/
 │
 ├── images/
 │   └── parking_lot_image.jpg  # Sample image of the parking lot
 ├── parking_spaces.json        # JSON file to store selected parking spaces
 ├── ParkingSpacePicker.py      # Script to select parking spaces
 ├── main.py                    # Main script to monitor and display parking occupancy
-├── requirements.txt           # List of required Python libraries
 └── README.md                  # This README file
 ```
 
