@@ -24,7 +24,9 @@ This project aims to monitor and display the occupancy status of parking spaces 
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/yourusername/parking-occupancy-project.git
+    git clone https://github.com/NehaRamesh2003/Parking_Occupancy_Counter.git
+    cd Parking_Occupancy_Counter
+
     cd parking-occupancy-project
     ```
 
